@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36705.20 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Square Root", "01. Square Root\01. Square Root.csproj", "{E749938A-B203-451D-8ACA-DC9ECCB655CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Enter Numbers", "02. Enter Numbers\02. Enter Numbers.csproj", "{74F7733A-209C-43DC-89AA-AEA0684FD641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sum of Integers", "03. Sum of Integers\03. Sum of Integers.csproj", "{44BF3AF3-6FF4-4CE9-BAD0-B805089DA04B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E749938A-B203-451D-8ACA-DC9ECCB655CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E749938A-B203-451D-8ACA-DC9ECCB655CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E749938A-B203-451D-8ACA-DC9ECCB655CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F7733A-209C-43DC-89AA-AEA0684FD641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F7733A-209C-43DC-89AA-AEA0684FD641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F7733A-209C-43DC-89AA-AEA0684FD641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F7733A-209C-43DC-89AA-AEA0684FD641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44BF3AF3-6FF4-4CE9-BAD0-B805089DA04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BF3AF3-6FF4-4CE9-BAD0-B805089DA04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BF3AF3-6FF4-4CE9-BAD0-B805089DA04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BF3AF3-6FF4-4CE9-BAD0-B805089DA04B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
